@@ -3078,6 +3078,7 @@ input, select, textarea {
 
 		#header h1 {
 			margin: 0 0 0.25em 0;
+			font-family: 'Times New Roman', Times, serif;
 		}
 
 		#header p {
